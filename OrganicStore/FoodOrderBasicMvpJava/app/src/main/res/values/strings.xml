@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Organic Store</string>
+    <string name="splash_text">Highly committed to quality products &amp; excellent services</string>
+    <string name="tincoder">Group 02</string>
+
+    // Tab Menu
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="feedback">Feedback</string>
+    <string name="contact">Contact</string>
+    <string name="order">History</string>
+    <string name="identified">Identified</string>
+
+    // action
+    <string name="action_ok">Ok</string>
+    <string name="action_cancel">Cancel</string>
+
+    // dialog
+    <string name="waiting_message">Waiting Message...</string>
+
+    // msg
+    <string name="error_not_connect_to_internet">Please check your network connection!</string>
+    <string name="msg_exit_app">Do you want to exit the application?</string>
+
+    <string name="category_title">Category</string>
+    <string name="food_suggest">Vegetable suggestions</string>
+    <string name="food_detail_title">Details of the vegetable</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="added_to_cart">Added to cart</string>
+    <string name="cancel">Cancel</string>
+    <string name="send_feedback_success">Feedback submitted successfully!</string>
+    <string name="name_require">VPlease enter your first and last name!</string>
+    <string name="comment_require">Please enter your feedback!</string>
+    <string name="order_cart">Order</string>
+    <string name="total">Total:</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete_food">Confirm removal from cart</string>
+    <string name="message_delete_food">Are you sure you want to delete this dish?</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="order_detail">Order details</string>
+    <string name="address_delivery">Delivery address</string>
+    <string name="message_enter_infor_order">Please fill in all shipping information!</string>
+    <string name="hint_search_name">Search name…</string>
+    <string name="price_label">Price:</string>
+    <string name="description_label">Description</string>
+        <string name="more_image_label">Some more pictures</string>
+    <string name="payment_method">Payment methods</string>
+    <string name="payment_method_cash">Cash</string>
+    <string name="label_sub">-</string>
+    <string name="label_add">+</string>
+    <string name="label_quantity_1">1</string>
+    <string name="label_price_0">0 VNĐ</string>
+
+    <string name="feedback_name">Full name (*)</string>
+    <string name="feedback_email">Email</string>
+    <string name="feedback_phone">Phone number</string>
+    <string name="feedback_comment">Comment (*)</string>
+    <string name="send_feedback">Send feedback</string>
+
+    <string name="label_id">Code orders:</string>
+    <string name="label_name">Full name:</string>
+    <string name="label_phone">Phone number:</string>
+    <string name="label_address">Receiving address:</string>
+    <string name="label_price">Total:</string>
+    <string name="label_date">Order date:</string>
+    <string name="label_payment">Payment:</string>
+    <string name="label_menu">Menu:</string>
+
+    <string name="status_new">Waiting for progressing</string>
+    <string name="status_cancel">Cancel order</string>
+    <string name="status_process">Delivery in progress</string>
+    <string name="status_success">Success</string>
+    <string name="status_fail">Failure</string>
+    <string name="quantity">Quantity:</string>
+    <string name="list_food_order">List of dishes in the order</string>
+
+    <string name="label_facebook">Facebook</string>
+    <string name="label_call">Call Phone</string>
+    <string name="label_gmail">Gmail</string>
+    <string name="label_skype">Skype</string>
+    <string name="label_youtube">Youtube</string>
+    <string name="label_zalo">Zalo</string>
+
+    <string name="msg_get_date_error">An error has occurred, please try again later!</string>
+    <string name="msg_order_success">Order is successful, please check your order in History</string>
+</resources>
